@@ -6,7 +6,7 @@ Built with Python, the RateMyProfessor GraphQL API, VADER sentiment analysis, an
 
 ## Part 1: Single-professor lookup tool
 
-Search any professor at any school (not just NJIT) and get:
+Search any professor at any school and get:
 - Their overall quality and difficulty ratings, visualized as distributions
 - Every course they've taught, ranked by number of reviews
 - Letter grade distributions, both overall and broken down course-by-course
